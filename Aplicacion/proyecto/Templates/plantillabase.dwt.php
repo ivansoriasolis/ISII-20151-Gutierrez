@@ -8,6 +8,7 @@
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 <link href="../css/estilo.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" href="../css/menu.css" type="text/css" />
 <?php include("includes/google.php"); ?>
 </head>
 
